@@ -1,8 +1,10 @@
+import ProjectItem from "../../components/ProjectItem"
 const ProjectsMain = () => {
     return (
         <div>
-            <h1>Projects</h1>
+            <h1 className="text-3xl font-bold">Projects</h1>
             <p>List of current projects</p>
+            <ProjectItem/>
         </div>
     )
 }

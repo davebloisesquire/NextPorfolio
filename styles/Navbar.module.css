@@ -9,15 +9,17 @@
 .links {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
+    flex-wrap: wrap;
 }
 
-.links a {
+
+/* .links a {
     display: flex;
     color: teal;
 }
 
 .links a:hover {
     color: aquamarine;
-}
+} */

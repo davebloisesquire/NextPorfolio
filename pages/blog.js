@@ -1,8 +1,8 @@
 const Blog = () => {
     return (
         <div>
-            <h1>Blog</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, ullam facere. Esse error dolores molestias minima ullam quidem officiis, officia amet, doloribus nobis distinctio natus aliquid sunt praesentium? Eius, magnam?</p>
+            <h1 className="text-5xl font-bold my-4">My General Thoughts</h1>
+            <p>I hope these aren't too boring or all over the place, so here we go.</p>
         </div>
     )
 }

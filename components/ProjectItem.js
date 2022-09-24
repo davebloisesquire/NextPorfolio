@@ -3,6 +3,7 @@ import test from "../public/test.avif"
 const ProjectItem = () => {
     return(
         <div>
+            <h2 className="text-2xl font-bold my-2">Coding Project 1</h2>
             <img src={test.src} alt="Test Image" />
             {/* <Image
                 alt="test image"
